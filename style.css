@@ -72,6 +72,9 @@ main h2{
 p{
     font-family:cursive;
 }
+a:hover{
+    background-color:RosyBrown;
+    color:Peru;
 
 
 
